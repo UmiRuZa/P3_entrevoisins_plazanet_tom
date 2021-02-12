@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+
+    <string name="userName">Caroline</string>
+    <string name="photo_of_the_neighbour">Photo of the neighbour</string>
+    <string name="neighbour_name">Caroline</string>
+    <string name="icon_for_position">Icon for position</string>
+    <string name="neighbour_adresse">Saint pierre du mont à 5km</string>
+    <string name="icon_for_phone">Icon for phone</string>
+    <string name="neighbour_phonenumber">+33 6 86 57 90 14</string>
+    <string name="neighbour_facebook_url">www.facebook.com/caroline</string>
+    <string name="about_me_description">A propos de moi</string>
+    <string name="snackbar_addToFav"><font color="#ffffff">Ajouté au favoris !</font></string>
+    <string name="activity_user_textview_about">Bonjour ! Je souhaiterai faire de la marche nordique. Pas iniitée, je recherche une ou plusieurs personnes susceptiobles de m\'accompagner. J\'aime bien les jeux de cartes tels la belote ou le tarot...</string>
+</resources>

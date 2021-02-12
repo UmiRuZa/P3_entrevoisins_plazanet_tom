@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0287c3</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <color name="colorName">#ffffff</color>
+    <color name="colorFavButton">#f5c842</color>
+    <color name="colorFavButtonFalse">@android:color/black</color>
+</resources>
