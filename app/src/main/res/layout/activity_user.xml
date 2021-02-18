@@ -83,6 +83,7 @@
             android:layout_marginTop="@dimen/marginTopUserActivityDescription"
             android:contentDescription="@string/icon_for_position"
             android:src="@drawable/baseline_place_black_24"
+            android:tint="@color/colorAccent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textview_neighbour_name_description" />
 
@@ -106,6 +107,7 @@
             android:layout_marginTop="@dimen/marginTopUserActivityDescription"
             android:contentDescription="@string/icon_for_phone"
             android:src="@drawable/baseline_call_black_24"
+            android:tint="@color/colorAccent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageview_icon_adress" />
 
@@ -141,6 +143,7 @@
             android:layout_marginTop="@dimen/marginTopUserActivityDescription"
             android:contentDescription="@string/icon_for_phone"
             android:src="@drawable/baseline_alternate_email_black_24"
+            android:tint="@color/colorAccent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageview_icon_phone" />
 
